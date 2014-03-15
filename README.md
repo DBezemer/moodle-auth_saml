@@ -10,17 +10,13 @@ Changes:
 - 2009-07-29 : added configuration options for sslib path and config path
                tightened up the session switching between ss and moodle
                Piers Harding <piers@catalyst.net.nz>
-
-  2009-11-16 : upgraded to the new ssphp saml2 modular authentication from ssphp
-               1.5. 
-
-  2010-01-15 : added option for dual login
-  2010-01-15 : added course creator role mapping
-               Tsukasa Hamano <hamano@osstech.co.jp>
-  2010-04-07 : added use of the wantsurl query string parameter
-  2011-02-28 : Modified to support Moodle 2.0
-  2013-03-05 : Modified to support Moodle 2.4 by Piers Harding
-  2014-03-12 : Add option to disable auto provisioning by David Bezemer
+- 2009-11-16 : upgraded to the new ssphp saml2 modular authentication from ssphp 1.5. 
+- 2010-01-15 : added option for dual login
+- 2010-01-15 : added course creator role mapping by Tsukasa Hamano <hamano@osstech.co.jp>
+- 2010-04-07 : added use of the wantsurl query string parameter
+- 2011-02-28 : Modified to support Moodle 2.0
+- 2013-03-05 : Modified to support Moodle 2.4 by Piers Harding
+- 2014-03-12 : Add option to disable auto provisioning by David Bezemer
 
 Requirements:
 - SimpleSAML (http://rnd.feide.no/simplesamlphp). Tested with version 1.11
